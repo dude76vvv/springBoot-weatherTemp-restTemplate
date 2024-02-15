@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "stations": [
+      {
+        "id": "S117",
+        "device_id": "S117",
+        "name": "Banyan Road",
+        "location": {
+          "latitude": 1.256,
+          "longitude": 103.679
+        }
+      },
+      {
+        "id": "S50",
+        "device_id": "S50",
+        "name": "Clementi Road",
+        "location": {
+          "latitude": 1.3337,
+          "longitude": 103.7768
+        }
+      },
+      {
+        "id": "S43",
+        "device_id": "S43",
+        "name": "Kim Chuan Road",
+        "location": {
+          "latitude": 1.3399,
+          "longitude": 103.8878
+        }
+      },
+      {
+        "id": "S111",
+        "device_id": "S111",
+        "name": "Scotts Road",
+        "location": {
+          "latitude": 1.31055,
+          "longitude": 103.8365
+        }
+      },
+      {
+        "id": "S115",
+        "device_id": "S115",
+        "name": "Tuas South Avenue 3",
+        "location": {
+          "latitude": 1.29377,
+          "longitude": 103.61843
+        }
+      }
+    ],
+    "reading_type": "DBT 1M F",
+    "reading_unit": "deg C"
+  },
+  "items": [
+    {
+      "timestamp": "2024-01-04T12:35:00+08:00",
+      "readings": [
+        {
+          "station_id": "S117",
+          "value": 25.3
+        },
+        {
+          "station_id": "S50",
+          "value": 24.6
+        },
+        {
+          "station_id": "S43",
+          "value": 25.4
+        },
+        {
+          "station_id": "S111",
+          "value": 23.8
+        },
+        {
+          "station_id": "S115",
+          "value": 24.6
+        }
+      ]
+    }
+  ],
+  "api_info": {
+    "status": "healthy"
+  }
+}
